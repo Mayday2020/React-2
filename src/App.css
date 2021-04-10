@@ -8,6 +8,7 @@
   grid-gap: 10px;
   max-width: 1200px;
   margin: 0 auto;
+  
 }
 .header {
   grid-area: h;
@@ -20,6 +21,9 @@
   grid-area: n;
   background-color: rgb(5, 206, 196);
 
+}
+.nav ul {
+  list-style-type: none;
 }
 .content {
   grid-area: c;
