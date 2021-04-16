@@ -1,0 +1,16 @@
+.content {
+    grid-area: c;
+    background-color: rgb(5, 193, 206);
+}
+
+.content img {
+    height: 100px;
+    
+}
+
+.posts {
+    color: rgb(19, 19, 252);
+}
+.description {
+    color: #fff;
+}
